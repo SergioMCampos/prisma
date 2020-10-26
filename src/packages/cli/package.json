@@ -103,7 +103,7 @@
     "husky": "4.3.0",
     "indent-string": "4.0.0",
     "is-installed-globally": "0.3.2",
-    "jest": "26.6.1",
+    "jest": "26.4.2",
     "line-replace": "2.0.1",
     "lint-staged": "10.4.2",
     "log-update": "4.0.0",
