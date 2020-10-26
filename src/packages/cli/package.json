@@ -128,7 +128,7 @@
     "strip-indent": "3.0.0",
     "tempy": "1.0.0",
     "terminal-link": "2.1.1",
-    "ts-jest": "26.4.2",
+    "ts-jest": "26.4.0",
     "typescript": "4.0.3",
     "verror": "1.10.0",
     "ws": "7.3.1"
